@@ -27,6 +27,8 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Download dari telegram file
 
 # Upcoming features (TODOs):
+Heroku :
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](
 
 # Cara deploy?
 Sabar ya, ini agak ribet kalau masih pertama kali.
