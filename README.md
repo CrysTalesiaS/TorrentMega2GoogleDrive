@@ -28,7 +28,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 
 # Upcoming features (TODOs):
 Heroku :
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrysTalesiaS/TorrentMega2GoogleDrive)
 
 # Cara deploy?
 Sabar ya, ini agak ribet kalau masih pertama kali.
